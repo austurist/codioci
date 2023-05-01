@@ -33,4 +33,4 @@ jobs:
       - name: Ending workflow message
         run: |
           echo "Now ending build workflow."
-          "Have a great day!"
+          echo "Have a great day!"
